@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Frontend Mentor Solution: [Add solution URL here](https://your-solution-url.com)
-- Rating Component App: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/responsive-rating-component-with-css-flexbox-and-bem-Od_wW_scN)
+- Live Site URL: [Rating Component App](https://alosoft.github.io/interactive-rating-component-main/)
 
 ## My process
 
